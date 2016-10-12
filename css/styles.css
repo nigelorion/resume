@@ -1,0 +1,21 @@
+div.header {
+  font-style: italic;
+  font-family: helvetica
+}
+
+span.google {
+  color: blue;
+}
+
+div.info {
+  padding-right: 700px;
+  font-family: helvetica;
+}
+
+span.starbucks {
+  color: green;
+}
+
+span.mcdonalds {
+  color: orange;
+}
